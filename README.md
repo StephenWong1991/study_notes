@@ -99,3 +99,40 @@
     <td>-</td>
   </tr>
 </table>
+
+> 第5版非严格模式下保留字
+
+<table>
+  <tr>
+    <td>class</td>
+    <td>enum</td>
+    <td>extends</td>
+    <td>super</td>
+  </tr>
+  <tr>
+    <td>const</td>
+    <td>export</td>
+    <td>import</td>
+    <td>super</td>
+  </tr>
+</table>
+
+> 第5版严格模式下保留字(限制)
+
+<table>
+  <tr>
+    <td>implements</td>
+    <td>package</td>
+    <td>public</td>
+  </tr>
+  <tr>
+    <td>interface</td>
+    <td>private</td>
+    <td>static</td>
+  </tr>
+  <tr>
+    <td>let</td>
+    <td>protected</td>
+    <td>yield</td>
+  </tr>
+</table>
