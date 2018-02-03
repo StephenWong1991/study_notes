@@ -2,8 +2,6 @@
 
 > 全部关键字
 
-|break|do|instanceof|typeof|
-
 <table>
   <tr>
     <td>break</td>
