@@ -1,7 +1,6 @@
 # study_notes
 
 > 全部关键字
-
 <table>
   <tr>
     <td>break</td>
@@ -48,7 +47,6 @@
 </table>
 
 > 全部保留字
-
 <table>
   <tr>
     <td>abstract</td>
@@ -101,7 +99,6 @@
 </table>
 
 > 第5版非严格模式下保留字
-
 <table>
   <tr>
     <td>class</td>
@@ -118,7 +115,6 @@
 </table>
 
 > 第5版严格模式下保留字(限制)
-
 <table>
   <tr>
     <td>implements</td>
