@@ -1,8 +1,11 @@
 # study_notes
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> 关键字和保留字
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
+break | do | instanceof | typeof
+case | else | new | var
+catch | finally | return | void
+continue | for | switch | while
+debugger | function | this | with
+default | if | throw
+delete | in | try
