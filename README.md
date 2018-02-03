@@ -1,6 +1,6 @@
 # study_notes
 
-> 关键字和保留字
+> 全部关键字
 
 <table>
   <tr>
@@ -43,6 +43,59 @@
     <td>delete</td>
     <td>in</td>
     <td>try</td>
+    <td>-</td>
+  </tr>
+</table>
+
+> 全部保留字
+
+<table>
+  <tr>
+    <td>abstract</td>
+    <td>enum</td>
+    <td>int</td>
+    <td>short</td>
+  </tr>
+  <tr>
+    <td>boolean</td>
+    <td>export</td>
+    <td>interface</td>
+    <td>static</td>
+  </tr>
+  <tr>
+    <td>byte</td>
+    <td>extends</td>
+    <td>long</td>
+    <td>super</td>
+  </tr>
+  <tr>
+    <td>char</td>
+    <td>final</td>
+    <td>native</td>
+    <td>synchronized</td>
+  </tr>
+  <tr>
+    <td>class</td>
+    <td>float</td>
+    <td>package</td>
+    <td>throws</td>
+  </tr>
+  <tr>
+    <td>const</td>
+    <td>goto</td>
+    <td>private</td>
+    <td>transient</td>
+  </tr>
+  <tr>
+    <td>debugger</td>
+    <td>implements</td>
+    <td>protected</td>
+    <td>volatile</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>import</td>
+    <td>public</td>
     <td>-</td>
   </tr>
 </table>
